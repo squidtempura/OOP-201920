@@ -11,7 +11,5 @@ while my_variable < 20:
                 my_variable +=1
                 print(my_variable)
         else:
-                my_vairable = (my_variable + 20)
+                my_variable = (my_variable + 20)
                 print('new')
-
-
